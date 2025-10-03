@@ -2,5 +2,7 @@
 ##README.md
 En este proyecto explicare conceptos relacionales con la Virtualización
 [1. Conceptos de virtualización](uno.md)
+[2. Tipos de virtualización](dos.md)
+[3. Conclusión](conclusión.md)
 
 
